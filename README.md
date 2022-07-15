@@ -1,9 +1,12 @@
-# [HangMan Game (Movie Version)]()
+# [HangMan Game (Movie Version)](https://hangman-game-rho.vercel.app/)
 
 I re-created the famous game i.e. "Hangman" where instead of guessing the word, the user have to guess the movie.
 
 ### Preview of the Site
+Image 1
 ![Website](preview1.png)
+
+Image 2
 ![Website - game running](preview2.png)
 
 #### Technologies Used
